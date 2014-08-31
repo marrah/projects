@@ -9,6 +9,9 @@ to match your system. Current settings are for windows and data sent to the seri
 This code was written to log the temperatures in my greenhouse. The windows open and close automatically based on the
 temperature and the temperature data is used to improve the logic used to control the windows.
 
+## Requirements
+* Update serial port to fit your configuration.
+* Create an output directory for the logs. Its not created automatically.
 
 ## Required gems
 * serialport
